@@ -1,0 +1,9 @@
+{
+  "name": "BoilerplateJS",
+  "author": "Harvey West",
+  "description": "Boilterplate for node.js applications",
+  "license": "MIT",
+  "scripts": {
+    "start": "node buildScripts/srcServer.js"
+  }
+}
